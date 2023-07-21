@@ -18,7 +18,7 @@ This repository contains a Blazor web application for a Pizza delivery service. 
 
 2. Install Dependencies: Ensure you have the required dependencies installed to run a Blazor application.
 
-3. Configure CELO Wallet: Set up your CELO wallet and cUSD token to enable seamless payments within the app.
+3. Configure CELO Wallet: Set up your CELO wallet and cUSD token to enable seamless payments within the app. Alternatively, you can make payment in BTC.
 
 4. Launch the App: Run the Blazor Pizza Delivery app locally on your machine.
 
